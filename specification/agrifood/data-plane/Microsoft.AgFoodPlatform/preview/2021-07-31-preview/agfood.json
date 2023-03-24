@@ -14837,16 +14837,6 @@
           },
           {
             "in": "query",
-            "name": "integrationIds",
-            "description": "Ids of the partner integration models.",
-            "type": "array",
-            "items": {
-              "type": "string"
-            },
-            "collectionFormat": "multi"
-          },
-          {
-            "in": "query",
             "name": "farmerIds",
             "description": "Ids of the farmers.",
             "type": "array",
